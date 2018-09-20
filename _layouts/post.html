@@ -16,6 +16,10 @@ layout: default
 
 {% include page-intro.html %}
 
+{% if page.assets and page.assets != '' %}
+  <p class="assets">Assets: <a download href="{{ page.assets }}">{{ page.assets }}</a></p>
+{% endif %}
+
 {{ content }}
 
 <nav aria-label="Adjacent Posts">
