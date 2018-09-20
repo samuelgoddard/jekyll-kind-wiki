@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to Jekyls
 author: john_doe
 date: '2018-07-03 12:00:00'
 assets: /assets/img/uploads/archive.zip
